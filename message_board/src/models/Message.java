@@ -45,7 +45,7 @@ public class Message {
         this.id = id;
     }
     
-    public String gatTitle() {
+    public String getTitle() {
         return title;
     }
     
